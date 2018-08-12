@@ -1,8 +1,8 @@
 {
-	"name": "ca-azure",
+	"name": "azure",
 	"description": "azure runtime for cloudassembly",
-	"language": "",
-	"provider": "services",
+	"language": "runtime",
+	"provider": "",
 	"database": "none",
 	"git": "https://github.com/jacobsauerhoefer/ca-azure.git"
 }
